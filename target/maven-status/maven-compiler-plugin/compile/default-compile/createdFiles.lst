@@ -1,0 +1,10 @@
+uk/ac/ucl/servlets/ViewProductListServlet.class
+uk/ac/ucl/model/ListItemEntity.class
+uk/ac/ucl/main/Main.class
+uk/ac/ucl/model/Product.class
+uk/ac/ucl/model/Model.class
+uk/ac/ucl/servlets/ListSearchServlet.class
+uk/ac/ucl/servlets/DeleteProductServlet.class
+uk/ac/ucl/servlets/AddProductServlet.class
+uk/ac/ucl/dao/CSVFileHandler.class
+uk/ac/ucl/model/ModelFactory.class
